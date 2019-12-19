@@ -12,3 +12,5 @@ The system, as shown in the figure, has one inlet and outlet. The outlet flow fo
 
 # State - Action
 ![](Assets/state_action.jpeg)
+
+In order to track multiple setpoints, the state for this system is the current setpoint tracking error ( difference between setpoint and height ). Simillarly the action is the necessary change in the current input.
