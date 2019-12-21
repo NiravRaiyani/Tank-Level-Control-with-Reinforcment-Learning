@@ -6,14 +6,14 @@ This repository demonstrates the reinforcement learning TD Q-Learning algorithm 
 
 
 # System Information
-![](Assets/system.jpeg)
+![](Assets/system.png)
 
 The system, as shown in the figure, has one inlet and outlet. The outlet flow form the tank depends on the level of the liquid in the tank. 
 
 # State - Action
-![](Assets/state_action.jpeg)
+![](Assets/state_action.png)
 
 In order to track multiple setpoints, the state for this system is the current setpoint tracking error ( difference between setpoint and height ). Simillarly the action is the necessary change in the current input.
 
 # An Example
-![](Assets/Example.jpeg)
+![](Assets/Example.png)
