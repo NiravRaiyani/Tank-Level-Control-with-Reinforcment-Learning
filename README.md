@@ -2,7 +2,7 @@
 
 *This repository is still being updated for detailed explaiation of the system and a batter navigation through the code. All the codes have been already uploaded.*
 
-This repository demonstrates the Reinforcement Learning **TD Q-Learning algorithm** to control the level of the tank
+This repository demonstrates the Reinforcement Learning **TD Q-Learning algorithm** to control the level of the tank.
 
 
 # System Information
