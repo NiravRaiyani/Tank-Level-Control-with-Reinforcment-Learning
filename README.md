@@ -7,7 +7,8 @@ This repository demonstrates the Reinforcement Learning **TD Q-Learning algorith
 
 # System Information
 <img src="Assets/system.png" height="70%" width="70%" >
-The system, as shown in the figure, has one inlet and outlet. The outlet flow form the tank depends on the level of the liquid in the tank. 
+<img src="Assets/material_balance.png" height="80%" width="80%">
+<!---The system, as shown in the figure, has one inlet and outlet. The outlet flow form the tank depends on the level of   the liquid in the tank.--> 
 
 # State - Action
 <img src="Assets/state_action.png" height="30%" width="30%" >
