@@ -1,6 +1,6 @@
 # Tank-Level-Control-with-Reinforcment-Learning
 
-*This repository is still being updated for detailed explaiation of the system and a batter navigation through the code. All the codes have been already uploaded.*
+*This repository is still being updated for detailed explaiation of the system and a batter navigation through the code. The implementation for non-linear CSTR (MIMO) is in process and will be uploaded soon *
 
 This repository demonstrates the Reinforcement Learning **TD Q-Learning algorithm** to control the level of the tank.
 
